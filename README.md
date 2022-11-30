@@ -60,7 +60,7 @@ Forking this project and <b>changing author name won't make you developer</b>
 ## [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/cyberboysumanjay/upayi)
 
 <h4><a href="https://upayi.ml/">Click here to create your UPI link</a></h4>
-<h3>Made with :heart: by <a href="https://cyberboysumanjay.github.io" alt="Sumanjay">Sumanjay</a>
+<h3>Made with :heart: by <a href="https://venky2211n.github.io" alt="venky2211n">venky2211n</a>
 </div>
 
 ---
